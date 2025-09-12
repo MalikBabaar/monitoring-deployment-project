@@ -65,7 +65,7 @@ Checks CPU, memory, and disk usage and alerts if usage exceeds 80%
 
 sudo python3 system_monitor.py
 
-### 5. 4. Creating a Fake Error to Test log_monitor.py
+### 5. Creating a Fake Error to Test log_monitor.py
 
 To verify that the log monitor detects errors:
 
