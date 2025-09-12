@@ -82,3 +82,10 @@ sudo python3 python-scripts/log_monitor.py
 You should see output like:
 
 [ALERT] Found 'error': [error]  test error for monitoring script
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-12 115622" src="https://github.com/user-attachments/assets/d44114d8-6104-4a8d-8a7c-ce62900b8550" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-12 115637" src="https://github.com/user-attachments/assets/6e30cf92-b9c8-4374-bc5c-0b2d9d2bde95" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-12 123737" src="https://github.com/user-attachments/assets/5f8a313c-183e-4e52-9c5b-461b7b2202ac" />
+
+
