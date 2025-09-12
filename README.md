@@ -36,6 +36,12 @@ monitoring-deployment-project/
 
 ## How to Use
 
+### Clone the repo
+
+https://github.com/MalikBabaar/monitoring-deployment-project.git
+
+cd monitoring-deployment-project
+
 ### 1. Deploy Nginx Server
 Run the Ansible playbook to install and start Nginx:
 
