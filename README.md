@@ -42,6 +42,7 @@ Install Python and `pip` if not already available.
 
 ## bash
 sudo apt update
+
 sudo apt install python3 python3-pip
 
 ### 2. Ansible
