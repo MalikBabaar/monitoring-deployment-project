@@ -36,10 +36,11 @@ monitoring-deployment-project/
 
 ## Make sure the following are installed on your system:
 
-### 1. Python 3.8+  
+### 1. Python 3.8+
+
 Install Python and `pip` if not already available.
 
-```bash
+## bash
 sudo apt update
 sudo apt install python3 python3-pip
 
