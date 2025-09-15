@@ -34,7 +34,26 @@ monitoring-deployment-project/
 │ └── file_handler.py
 ├── README.md
 
-## How to Use
+## Make sure the following are installed on your system:
+
+### 1. Python 3.8+  
+Install Python and `pip` if not already available.
+
+```bash
+sudo apt update
+sudo apt install python3 python3-pip
+
+### 2. Ansible
+
+Install Ansible for running deployment playbooks:
+
+pip install ansible
+
+Alternative:
+
+sudo apt install ansible    # Debian/Ubuntu
+
+## How to use
 
 ### Clone the repo
 
